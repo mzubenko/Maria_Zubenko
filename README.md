@@ -2,7 +2,7 @@
 
 This is a SpecFlow Visual Studio Project, so it requires a SpecFlow extension for VS. You can install it by following instructions via the link: https://docs.specflow.org/projects/getting-started/en/latest/GettingStarted/Step1.html
 
-In order for this project to work you need the following packages installed: NUnit, NUnit.ConsoleRunner, NUnit3TestAdapter, Microsoft.NET.Test.Sdk, Selenium.Support, Selenium.WebDriver, Selenium.WebDriver.ChromeDriver (or something else, depending on your browser), . The project uses .Net Core 3.1
+In order for this project to work you need the following packages installed: NUnit, NUnit.ConsoleRunner, NUnit3TestAdapter, Microsoft.NET.Test.Sdk, Selenium.Support, Selenium.WebDriver, Selenium.WebDriver.ChromeDriver (or something else, depending on your browser).
 
 Make sure to install the version of Selenium.WebDriver.ChromeDriver (or any other web browser driver), that is compatible with your web browser!!!
 
